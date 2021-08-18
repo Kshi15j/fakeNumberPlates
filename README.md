@@ -1,6 +1,6 @@
 # fakeNumberPlates
 
-[Midsem Report](https://github.com/Kshi15j/fakeNumberPlates/blob/main/PS1-Report%20(Live%20identification%20of%20vehicles%20with%20fake%20number%20plates%20using%20Machine%20Learning%20Algorithms).pdf)
+[Project Report](https://github.com/Kshi15j/fakeNumberPlates/blob/main/PS1-Report%20(Live%20identification%20of%20vehicles%20with%20fake%20number%20plates%20using%20Machine%20Learning%20Algorithms).pdf)
 
 Live identification of vehicles with fake number plates using Machine Learning Algorithms
 
